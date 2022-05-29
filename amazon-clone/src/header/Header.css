@@ -1,0 +1,122 @@
+.header {
+    position: sticky;
+    color: white;
+    background: black;
+}
+
+
+.headerwrapper {
+    display:flex;
+    text-align: center;
+    justify-content: space-around;
+    height: 50px;
+}
+
+.left{
+    display: flex;
+    text-align: center;
+}
+
+.amazonlogo {
+    display: flex;
+    padding-right: 20px;
+}
+
+
+.companyname {
+    width: 100px;
+    margin: 0;
+    color:white;
+    background-color: black;
+    margin-top: 10px;
+    margin-right: 1px;
+}
+.india{
+    color: white;
+    margin-top: 8px;
+    font-size: 20px;
+    font-weight: 300%;
+    
+}
+
+.Iconforloc {
+    margin-top: 8px;
+}
+
+.customername {
+    margin-top: 8px;
+    color: white;
+    display: flex;
+}
+
+.details {
+    display: flex;
+    flex-direction: column;
+}
+
+.name {
+    font-size: 14px;
+    color:gray;
+    justify-content: left;
+}
+.adderss {
+    font-weight: 400%;
+}
+
+.search {
+    display: flex;
+    position: relative;
+    padding-left: 40px;
+    margin-top: 3px;
+    
+}
+
+.searchbarinput {
+    margin-top: 5px;
+    width: 500px;
+    height: 30px;
+
+}
+
+.searchiconcontaioner{
+    margin-top: 8px;
+}
+
+.searchicon {
+    margin-top: 5px;
+    text-align: center;
+    justify-content: center;
+    background: rgb(223, 161, 25);
+    height: 40px;
+    width : 70px;
+    padding-bottom: -5px;
+    
+
+}
+
+.right {
+    margin-top: 3px;
+    margin-left: 20px;
+    justify-content: right;
+    display: flex;
+}
+
+.details1 {
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+}
+
+.cart{
+    display: flex;
+}
+.shoppingcart {
+    margin-top: 7px;
+    font-size: large;
+    width: 40px;
+}
+
+.nameof {
+    margin-left: 5px;
+    margin-top: 8px;
+}
